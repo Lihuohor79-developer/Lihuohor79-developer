@@ -163,7 +163,7 @@ I'm continuously building projects to turn what I learn into practical experienc
 I'm always interested in connecting with other developers, students, engineers, and people building interesting technology.
 
 * 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/lihuo-hor-b415a9412)
-* 🌐 Portfolio: [My Portfolio](https://my-portfolio-ochre-eight-82.vercel.app/#testimonials)
+* 🌐 Portfolio: [My Portfolio](https://lihuohor-portfolio.vercel.app/)
 * 📧 Email: `lihuohor.science.kh79@gmail.com`
 * 🐙 GitHub: [@Lihuohor79-developer](https://github.com/Lihuohor79-developer)
 
