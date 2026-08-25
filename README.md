@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lihuohor
+#  Hi, I'm Lihuohor
 
 ### 💻 Computer Science Student | Full-Stack Developer | DevOps & AI Enthusiast
 
