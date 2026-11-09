@@ -109,6 +109,13 @@ An e-commerce application for browsing and managing computer and mobile products
 🔗 [View Project](#)
 
 ---
+### 🤖 SquareCG – AI-Powered Chat Application
+
+An AI-powered conversational application featuring intelligent AI interactions, user authentication, chat history management, and a modern, responsive user interface. Built with a scalable backend architecture, AI integration, and real-time communication using Server-Sent Events (SSE).
+
+**Technologies:** React • Tailwind CSS • Node.js • Express.js • MongoDB • Prisma ORM • Gemini AI • Server-Sent Events (SSE)
+
+🔗 [View Project](https://square-cg.vercel.app)
 
 ## 📚 Currently Learning
 
