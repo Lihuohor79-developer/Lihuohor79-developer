@@ -86,7 +86,7 @@ A full-stack e-commerce platform focused on product management, customer experie
 
 **Technologies:** React • Node.js • Express.js • MongoDB • REST API
 
-🔗 [View Project](#)
+🔗 [View Project](https://food-delivery-phi-pink.vercel.app)
 
 ---
 
